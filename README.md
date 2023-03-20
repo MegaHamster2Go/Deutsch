@@ -13,3 +13,7 @@ Effekte wie gute Laune oder besser in der Schule zu sein sowie weniger bis kein 
 ## Schluss
 Ich denke, dass eine KI für Lernpläne sehr weiter helfen kann und die Schulleistung steigert. Dennoch sollte eine KI so programmiert werden, das diese jeder Zeitweiter entwickelt werden kann. Eine KI benötigt großen Aufwand also sollte sie sich auch lohnen. 
 
+**Feedback**
+1. Die Argumente werden nicht ganz klar. Struktur: These -> Begründung -> Beispiel!
+2. Auf die Grammatik achten.
+
