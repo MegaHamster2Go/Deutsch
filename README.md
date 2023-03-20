@@ -11,5 +11,5 @@ Sollte man eine KI programmieren wollen, könnte man einen langen Weg vor sich h
 Anderseits könnte eine KI für Lernpläne auch gleichzeitig eine KI für Tagespläne werden, somit ermöglicht es den Betroffenen eine Tages und Lernplanung zu erstellen damit dieser einen Organisierteren und Ruhigeren Tag hat.
 Effekte wie gute Laune oder besser in der Schule zu sein sowie weniger bis kein Zeitmangel zu haben, kann keinem schaden.
 ## Schluss
-Ich denke, dass eine KI für Lernpläne sehr weiter helfen kann und die Schulleistung steigert, dennoch sollte eine KI so programmiert werden, das diese jeder Zeitweiter entwickelt werden kann. Eine KI benötigt großen Aufwand also sollte sie sich auch lohnen. 
+Ich denke, dass eine KI für Lernpläne sehr weiter helfen kann und die Schulleistung steigert. Dennoch sollte eine KI so programmiert werden, das diese jeder Zeitweiter entwickelt werden kann. Eine KI benötigt großen Aufwand also sollte sie sich auch lohnen. 
 
